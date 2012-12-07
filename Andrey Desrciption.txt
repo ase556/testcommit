@@ -1,1 +1,3 @@
-hello, its will be my own first commit!!!
+hello, this is will be my own first commit!!!
+
+next line
